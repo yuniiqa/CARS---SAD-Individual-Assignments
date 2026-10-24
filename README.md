@@ -2,8 +2,8 @@
 
 Course: BIT3134 System Analysis and Design
 Assignment: Individual Assignment (Prototype Appendix)
-Student Name: [Your Name]
-Student ID: [Your ID]
+Student Name: Ayuni Syafiqah Azidin
+Student ID: B25080265
 
 ### Project Overview
 
